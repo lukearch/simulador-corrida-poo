@@ -26,8 +26,4 @@ public class Carro {
   public int getDistanciaPercorrida() {
     return this.distanciaPercorrida;
   }
-
-  public void setDistanciaPercorrida(int distancia) {
-    this.distanciaPercorrida = distancia;
-  }
 }
